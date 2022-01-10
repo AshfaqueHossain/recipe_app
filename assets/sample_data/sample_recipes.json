@@ -1,0 +1,314 @@
+
+{
+    "recipes": [
+        {
+            "id": "rec1",
+            "dishImage": "assets/food_pics/food_salmon.jpg",
+            "title": "Smoked Salmon",
+            "duration": "30 mins",
+            "source": "https://pixabay.com/photos/salmon-dish-food-meal-fish-518032/",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: Meditarrian",
+                "Skill Level: Beginner",
+                "Prep Time 5 minutes"
+            ]
+        },
+        {
+            "id": "rec2",
+            "dishImage": "assets/food_pics/food_cupcake.jpg",
+            "title": "Chocolate Cup Cake",
+            "duration": "1 hour",
+            "source": "https://pixabay.com/photos/cupcakes-dessert-frosting-food-690040/",
+            "information": [
+                "Course: Dessert",
+                "Price: Somewhat cheap",
+                "Cuisine: American",
+                "Skill Level: Amateur",
+                "Prep Time 10 minutes"
+            ]
+        },
+        {
+            "id": "rec3",
+            "dishImage": "assets/food_pics/food_pancake.jpg",
+            "title": "Rasberry Maple Pancake",
+            "duration": "30 mins",
+            "source": "https://pixabay.com/photos/pancakes-maple-syrup-sweet-food-2291908/",
+            "information": [
+                "Course: Breakfast",
+                "Price: Cheap",
+                "Cuisine: American",
+                "Skill Level: Beginner",
+                "Prep Time 5 minutes"
+            ]
+        },
+        {
+            "id": "rec4",
+            "dishImage": "assets/food_pics/food_spaghetti.jpg",
+            "title": "Seafood Spaghetti",
+            "duration": "50 mins",
+            "source": "https://pixabay.com/photos/spaghetti-drunken-line-food-pasta-960978/",
+            "information": [
+                "Course: Main Course",
+                "Price: Expensive",
+                "Cuisine: Italian",
+                "Skill Level: Beginner",
+                "Prep Time 5 minutes"
+            ]
+        },
+        {
+            "id": "rec5",
+            "dishImage": "assets/food_pics/food_friedrice.jpg",
+            "title": "Thai Fried Rice",
+            "duration": "35 mins",
+            "source": "https://pixabay.com/photos/fried-rice-thai-food-thai-cuisine-3023040/",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: Thai",
+                "Skill Level: Beginner",
+                "Prep Time 5 minutes"
+            ]
+            
+        },
+        {
+            "id": "rec6",
+            "dishImage": "assets/food_pics/food_curry.jpg",
+            "title": "Thai Green Curry",
+            "duration": "1 hour",
+            "source": "https://pixabay.com/photos/green-curry-thai-food-3604721/",
+            "information": [
+                "Course: Main Course",
+                "Price: Medium",
+                "Cuisine: Thai",
+                "Skill Level: Amateur",
+                "Prep Time 10 minutes"
+            ]
+        },
+        {
+            "id": "rec7",
+            "dishImage": "assets/food_pics/food_pho.jpg",
+            "title": "Vietnamese Pho",
+            "duration": "1 hour",
+            "source": "https://pixabay.com/photos/soup-pho-soup-vietnam-vietnamese-5250765/",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: Vietnamese",
+                "Skill Level: Hard",
+                "Prep Time 20 minutes"
+            ]
+        },
+        {
+            "id": "rec8",
+            "dishImage": "assets/food_pics/food_burger.jpg",
+            "title": "Bacon Cheese Burger",
+            "duration": "30 min",
+            "source": "https://pixabay.com/photos/burger-fast-food-hamburger-731298/",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: American",
+                "Skill Level: Easy",
+                "Prep Time 5 minutes"
+            ]
+        },
+        {
+            "id": "rec10",
+            "dishImage": "assets/food_pics/food_dozen_eggs.jpg",
+            "title": "Boiled Egg",
+            "duration": "8 min",
+            "source": "https://pixabay.com/photos/burger-fast-food-hamburger-731298/",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: American",
+                "Skill Level: Easy",
+                "Prep Time 0 minutes"
+            ]
+        },
+        {
+            "id": "rec11",
+            "dishImage": "assets/food_pics/food_flour.jpg",
+            "title": "Flour",
+            "duration": "02 min",
+            "source": "https://pixabay.com/photos/burger-fast-food-hamburger-731298/",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: American",
+                "Skill Level: Easy",
+                "Prep Time 5 minutes"
+            ]
+        },
+        {
+            "id": "rec12",
+            "dishImage": "assets/food_pics/food_pancake.jpg",
+            "title": "Raspberry Pancake",
+            "duration": "7 min",
+            "source": "https://pixabay.com/photos/burger-fast-food-hamburger-731298/",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: American",
+                "Skill Level: Easy",
+                "Prep Time 5 minutes"
+            ]
+        },
+        {
+            "id": "rec13",
+            "dishImage": "assets/food_pics/food_spaghetti.jpg",
+            "title": "Spaghetti",
+            "duration": "10 min",
+            "source": "https://pixabay.com/photos/burger-fast-food-hamburger-731298/",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: Desi",
+                "Skill Level: Easy",
+                "Prep Time 5 minutes"
+            ]
+        },
+        {
+            "id": "rec14",
+            "dishImage": "assets/food_pics/food_brocoly_shrimp.jpg",
+            "title": "Shrimp with Brocoly",
+            "duration": "20 min",
+            "source": "https://pixabay.com/photos/burger-fast-food-hamburger-731298/",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: American",
+                "Skill Level: Easy",
+                "Prep Time 5 minutes"
+            ]
+        },
+        {
+            "id": "rec15",
+            "dishImage": "assets/food_pics/food_chicken_sizzling.jpg",
+            "title": "Chicken Sizzling",
+            "duration": "25 min",
+            "source": "https://pixabay.com/photos/burger-fast-food-hamburger-731298/",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: American",
+                "Skill Level: Easy",
+                "Prep Time 10 minutes"
+            ]
+        },
+        {
+            "id": "rec16",
+            "dishImage": "assets/food_pics/food_coconat.jpg",
+            "title": "Coconut Shrimp",
+            "duration": "30 min",
+            "source": "https://pixabay.com/photos/burger-fast-food-hamburger-731298/",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: American",
+                "Skill Level: Easy",
+                "Prep Time 20 minutes"
+            ]
+        },
+        {
+            "id": "rec17",
+            "dishImage": "assets/food_pics/food_hawaian_pizza.jpg",
+            "title": "Hawaiian pizza",
+            "duration": "15 min",
+            "source": "https://pixabay.com/photos/burger-fast-food-hamburger-731298/",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: American",
+                "Skill Level: Easy",
+                "Prep Time 15 minutes"
+            ]
+        },
+        {
+            "id": "rec18",
+            "dishImage": "assets/food_pics/food_mushroom_squid.jpg",
+            "title": "Fresh Squid with Mushroom",
+            "duration": "18 min",
+            "source": "https://pixabay.com/photos/burger-fast-food-hamburger-731298/",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: American",
+                "Skill Level: Easy",
+                "Prep Time 5 minutes"
+            ]
+        },
+        {
+            "id": "rec19",
+            "dishImage": "assets/food_pics/food_nachos.jpg",
+            "title": "Nachos",
+            "duration": "10 min",
+            "source": "https://pixabay.com/photos/burger-fast-food-hamburger-731298/",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: American",
+                "Skill Level: Easy",
+                "Prep Time 5 minutes"
+            ]
+        },
+        {
+            "id": "rec20",
+            "dishImage": "assets/food_pics/food_pancake2.jpg",
+            "title": "Pancakes",
+            "duration": "5-10 min",
+            "source": "https://pixabay.com/photos/burger-fast-food-hamburger-731298/",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: American",
+                "Skill Level: Easy",
+                "Prep Time 5 minutes"
+            ]
+        },
+        {
+            "id": "rec21",
+            "dishImage": "assets/food_pics/food_pinaple.jpg",
+            "title": "Hawaiian-Style Shrimp.",
+            "duration": "22 min",
+            "source": "https://pixabay.com/photos/burger-fast-food-hamburger-731298/",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: American",
+                "Skill Level: Easy",
+                "Prep Time 5 minutes"
+            ]
+        },
+        {
+            "id": "rec22",
+            "dishImage": "assets/food_pics/food_shahi_biriani.jpg",
+            "title": "Mughlai Shahi Biryani",
+            "duration": "45 min",
+            "source": "https://pixabay.com/photos/burger-fast-food-hamburger-731298/",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: American",
+                "Skill Level: Hard",
+                "Prep Time 20 minutes"
+            ]
+        },
+        {
+            "id": "rec23",
+            "dishImage": "assets/food_pics/food_shrimp_bowl.jpg",
+            "title": "Large Shrimp Bowl",
+            "duration": "20 min",
+            "source": "https://pixabay.com/photos/burger-fast-food-hamburger-731298/",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: American",
+                "Skill Level: Easy",
+                "Prep Time 15 minutes"
+            ]
+        }
+    ]
+}
